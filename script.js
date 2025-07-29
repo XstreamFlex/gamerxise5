@@ -1,0 +1,1 @@
+function ctaAction() {\n  alert('Get Started clicked!');\n}
